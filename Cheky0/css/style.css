@@ -1,0 +1,25 @@
+body{
+    background-color: F3EFF5;
+}
+
+#main-container{
+    padding:15px;
+    text-align:center;
+}
+h1{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #3F7D20;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: right;
+
+}
